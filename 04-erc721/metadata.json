@@ -1,0 +1,22 @@
+{
+    "name": "Name",
+    "description": "Description",
+    "symbol": "SYM",
+    "image": "https://imgur.com/a/E3p01jcRL",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Black"
+        }
+
+        {
+            "trait_type": "Head",
+            "value": "Cap"
+        }
+
+        {
+            "trait_type": "Face",
+            "value": "Glasses"
+        }
+    ]
+}

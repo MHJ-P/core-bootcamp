@@ -14,7 +14,6 @@ describe("SolidityConstructor", function () {
       "SolidityConstructor"
     );
     const INITIAL_BALANCE = 1_000_000;
-
     const ctcSolidityConstructor = await SolidityConstructor.deploy(
       INITIAL_BALANCE
     );

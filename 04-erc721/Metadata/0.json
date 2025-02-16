@@ -1,0 +1,22 @@
+"name" : "Ben10",
+"description": "Ben10 is a cartoon show",
+"symbol":"HAPPY",
+"image": "https://i.imgur.com/TzJFa0U.jpeg",
+"attributes" : 
+[
+    {
+        "trait_type": "Background",
+        "value": "Red"
+    },
+    {
+        "trait_type": "Eyes",
+        "value": "Blue"
+    },
+    {
+        "trait_type": "Mouth",
+        "value": "Smiling"
+    }
+
+
+
+]
